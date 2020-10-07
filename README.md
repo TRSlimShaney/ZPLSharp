@@ -2,7 +2,7 @@
 A wrapper for the ZPL Language, enabling a direct interaction between .NET and ZPL.
 
 ## License
-ZPL Sharp is free for evaluative or non-commercial use. Reverse engineering is prohibited.
+ZPL Sharp is free for evaluative or non-commercial use. Reverse engineering and decompilation is prohibited.
 
 
 ## Description
