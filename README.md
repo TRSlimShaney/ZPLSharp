@@ -10,4 +10,4 @@ ZPLSharp allows programming for ZPL printers to be done in an object oriented fa
 Build labels, formats, and format fillers dynamically and send them off to a printer connected via TCP/IP.
 Most printer administration commands are also implemented, meaning printers can be remotely administered by .NET.
 
-ZPLSharp is still in development and not all features are currently available.
+ZPLSharp is still in development and not all planned features are currently implemented.
