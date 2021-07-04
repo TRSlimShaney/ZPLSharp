@@ -1,8 +1,9 @@
 # ZPLSharp
 A wrapper for the ZPL Language, enabling a direct interaction between .NET and ZPL compatible printers.
+Please note that this library is not complete and does not support all ZPL functionality.
 
 ## License
-ZPLSharp is free for evaluative or non-commercial use. Evaluative use is clarified as use of the software in an attempt to decide whether or not an entity would like to implement the software BEFORE it is deployed. Non-commercial use is clarified as NOT being used in a for-profit entity, therefore if the entity is for-profit they cannot use this software freely and must purchase a license. Reverse engineering and decompilation are prohibited.
+ZPLSharp was previously available under a restrictive license, but now has been relicensed under the MIT License as an open-source library.
 
 
 ## Description
